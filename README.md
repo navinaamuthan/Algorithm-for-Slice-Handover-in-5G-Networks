@@ -1,10 +1,7 @@
-# Final Year Project
-Bsc (Eng) Electrical and Computer Engineering, University of Cape Town `Passed with a Distinction`
-## Project Title 
+
 
 Design of An Algorithm for 5G Sliced Networks
 
-## What's Here
 
 This repo contains all the Python code used in this project, the results obtained from the simulations and graphs, the project report, and the project poster.
 
